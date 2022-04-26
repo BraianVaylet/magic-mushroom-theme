@@ -1,0 +1,39 @@
+{
+    "name": "happy-mushroom",
+    "displayName": "Happy Mushroom Theme",
+    "description": "a happy theme for vscode 🍄",
+    "version": "1.0.0",
+    "publisher": "BraianVaylet",
+    "icon": "logo150px.png",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/BraianVaylet/happy-mushroom-theme",
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "mushroom",
+        "happy",
+        "happy mushroom",
+        "braian vaylet",
+        "vaylet"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "happy-mushroom-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/happy-mushroom-theme-color-theme.json"
+            }
+        ]
+    }
+}
