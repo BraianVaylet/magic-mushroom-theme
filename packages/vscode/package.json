@@ -1,13 +1,13 @@
 {
-    "name": "happy-mushroom",
-    "displayName": "Happy Mushroom Theme",
-    "description": "a happy theme for vscode 🍄",
-    "version": "1.0.0",
+    "name": "magic-mushroom",
+    "displayName": "magic Mushroom Theme",
+    "description": "a magic theme for vscode 🍄",
+    "version": "1.0.1",
     "publisher": "BraianVaylet",
     "icon": "logo150px.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BraianVaylet/happy-mushroom-theme"
+        "url": "https://github.com/BraianVaylet/magic-mushroom-theme"
     },
     "scripts": {
         "package": "vsce package",
@@ -23,17 +23,17 @@
     "theme",
     "dark theme",
     "mushroom",
-    "happy",
-    "happy mushroom",
+    "magic",
+    "magic mushroom",
     "braian vaylet",
     "vaylet"
 ],
 "contributes": {
     "themes": [
         {
-            "label": "happy-mushroom-theme",
+            "label": "magic-mushroom-theme",
             "uiTheme": "vs-dark",
-            "path": "./themes/happy-mushroom-theme-color-theme.json"
+            "path": "./themes/magic-mushroom-theme-color-theme.json"
         }
     ]
 }

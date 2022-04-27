@@ -1,17 +1,17 @@
 <p align="center" width="200">
-   <img align="center" width="150" src="https://raw.githubusercontent.com/BraianVaylet/happy-mushroom-theme/main/packages/vscode/logo150px.png" />
+   <img align="center" width="150" src="https://raw.githubusercontent.com/BraianVaylet/magic-mushroom-theme/main/packages/vscode/logo150px.png" />
 </p>
 
 ---
 
-# Happy Mushroom Theme - Visual Studio Code
+# Magic Mushroom Theme - Visual Studio Code
 
-### 🚀 [WEBSITE](https://braianvaylet.dev/themes/happymushroom)
+### 🚀 [WEBSITE](https://braianvaylet.dev/themes/magicmushroom)
 
-### 🛒 [Download](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.happy-mushroom)
+### 🛒 [Download](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.magic-mushroom)
 
 <p align="center">
-   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/happy-mushroom-theme/main/packages/vscode/image-vscode.png" />
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/magic-mushroom-theme/main/packages/vscode/image-vscode.png" />
 </p>
 
 **Enjoy!**
