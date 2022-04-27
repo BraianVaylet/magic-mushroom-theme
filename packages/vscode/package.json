@@ -2,7 +2,7 @@
     "name": "magic-mushroom",
     "displayName": "Magic Mushroom Theme",
     "description": "a magic theme for vscode 🍄",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "BraianVaylet",
     "icon": "logo150px.png",
     "repository": {
@@ -20,13 +20,11 @@
     "Themes"
 ],
 "keywords": [
+    "magic mushroom theme",
     "theme",
     "dark theme",
-    "mushroom",
-    "magic",
-    "magic mushroom",
     "braian vaylet",
-    "vaylet"
+    "magic"
 ],
 "contributes": {
     "themes": [
