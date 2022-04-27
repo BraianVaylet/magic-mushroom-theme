@@ -4,7 +4,14 @@
 
 ---
 
-# Magic Mushroom Theme - Visual Studio Code
+# Magic Mushroom Theme
+
+## 🎨 Color palette
+
+<p align="center">
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/magic-mushroom-theme/main/assets/coolors.png" />
+</p>
+
 
 **Enjoy!**
 
