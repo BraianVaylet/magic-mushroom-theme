@@ -4,7 +4,7 @@
 
 ---
 
-# Happy Mushroom Theme - Visual Studio Code
+# Magic Mushroom Theme - Visual Studio Code
 
 **Enjoy!**
 
