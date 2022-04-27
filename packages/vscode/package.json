@@ -1,8 +1,8 @@
 {
     "name": "magic-mushroom",
-    "displayName": "magic Mushroom Theme",
+    "displayName": "Magic Mushroom Theme",
     "description": "a magic theme for vscode 🍄",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "BraianVaylet",
     "icon": "logo150px.png",
     "repository": {
@@ -31,7 +31,7 @@
 "contributes": {
     "themes": [
         {
-            "label": "magic-mushroom-theme",
+            "label": "Magic Mushroom Theme",
             "uiTheme": "vs-dark",
             "path": "./themes/magic-mushroom-theme-color-theme.json"
         }
